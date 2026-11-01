@@ -47,9 +47,7 @@ button {
   flex-direction: column;
   justify-content: space-between;
   color: white;
-  background:
-    radial-gradient(circle at 85% 15%, #4385e8 0, transparent 35%),
-    linear-gradient(145deg, #102a56, #174a94 60%, #2468c8);
+  background: radial-gradient(circle at 85% 15%, #14121a 0, transparent 35%), linear-gradient(145deg, #102a56, #08001b 60%, #6748a06b);
 }
 
 .painel-info::before,
@@ -240,8 +238,10 @@ button {
   padding: 0 14px;
   color: #202b3c;
   outline: none;
+  
   transition: border 0.2s, box-shadow 0.2s;
 }
+
 
 .campo input::placeholder {
   color: #a3abba;
