@@ -85,15 +85,15 @@ function LogeCad() {
           </div>
           <div className="info-conteudo">
             <span className="etiqueta">
-              Texto
+            Seja Bem-vindo
             </span>
             <h1>
-              Texto
-              <br />
-              subtitulo
+              Next
+             
+              Build
             </h1>
             <p>
-              arrumar texto
+              Tecnologia que transforma 
             </p>
             <div className="destaque">
               <div className="avatares">
