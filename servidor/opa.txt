@@ -1,3 +1,11 @@
 nome = Gemini API Key
 nomedoprojeto = projects/512050665676   
 numerodoprojeto = 512050665676
+
+npm install
+npm install express cors dotenv @google/genai jsonwebtoken socket.io mysql2
+npm install socket.io-client
+npm install @google/genai
+
+node servidor/server
+npm run dev
