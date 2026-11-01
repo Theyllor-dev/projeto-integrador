@@ -25,7 +25,7 @@ body{
 
 
 .topo span{
-    top: -21px;
+   
     color: rgb(124 145 255);
     position: relative;
     left: 5px;
@@ -140,6 +140,9 @@ body{
   border-left: 3px solid #8b5cf6;
 }
 
+.back-site link{
+  background-color: #151a26;
+}
 
 .back-site {
   margin-top: auto;
@@ -427,7 +430,7 @@ body.tema-claro .menu-item:hover {
     justify-content: space-between;
     gap: 12px;
     width: 100%;
-    min-height: 68px;
+    min-height: 104px;
     padding: 10px 16px;
     background: rgba(8, 14, 29, 0.94);
     border-bottom: 1px solid rgba(96, 165, 250, 0.16);
